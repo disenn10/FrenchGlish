@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.disen.frenglish.MainActivity">
+
+    <TextView
+        android:id="@+id/colors"
+        android:background="@color/Colors"
+        style="@style/CategoryStyle"
+        android:text="@string/colors" />
+
+    <TextView
+        android:background="@color/Numbers"
+        style="@style/CategoryStyle"
+        android:id="@+id/numbers"
+        android:text="@string/numbers" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/Phrases"
+        android:id="@+id/phrases"
+        android:text="@string/phrases" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/Family"
+        android:id="@+id/family"
+        android:text="@string/family" />
+
+    <TextView
+        style="@style/CategoryStyle"
+        android:background="@color/Words"
+        android:id="@+id/words"
+        android:text="@string/words" />
+</LinearLayout>

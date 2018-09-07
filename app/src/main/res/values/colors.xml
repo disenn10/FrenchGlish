@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Colors">#F44336</color>
+    <color name="Numbers">#E040FB</color>
+    <color name="Phrases">#9E9D24</color>
+    <color name="Family">#00E676</color>
+    <color name="Words">#7C4DFF</color>
+    <color name="White">#FAFAFA</color>
+    <color name="gold">#FFAB00</color>
+</resources>
